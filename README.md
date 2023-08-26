@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bnk159hair)](https://solved.ac/bnk159hair)
+
 <!--
 **bnk159hair/bnk159hair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
