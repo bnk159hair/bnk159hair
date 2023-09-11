@@ -26,6 +26,7 @@
 # 🏅 Algorithm Level
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bnk159hair)](https://solved.ac/bnk159hair)
+
 Softeer HSAT Level 3
 
   
